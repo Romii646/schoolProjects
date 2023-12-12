@@ -2,8 +2,10 @@
 #include <string>
 #include <fstream>
 #include <iomanip>
-
 using namespace std;
+
+/*Calculate the average of all valid grades input along with the total number of grades in each letter-grade category*/
+
 // global variables
    ifstream inFile;
    int counter;
